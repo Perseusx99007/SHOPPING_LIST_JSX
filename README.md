@@ -1,2 +1,2 @@
-# SHOPPING_LIST_JSX
- Program using React to display list
+# Shopping_List
+A simple Web page, built with React.
